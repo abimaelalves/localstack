@@ -3,7 +3,6 @@
 Este documento fornece um guia passo a passo para configurar o LocalStack, instalar as ferramentas necessárias e testar serviços como S3, SQS e SNS.
 
 ---
-
 ## 📌 **1. Instalar dependências**
 
 ### 🔹 **1.1 Instalar Docker**
@@ -171,4 +170,5 @@ Agora você tem um ambiente LocalStack configurado e pode testar os serviços da
 
 Se precisar de mais alguma coisa, entre em contato! 😉
 
+# localstack
 # localstack
